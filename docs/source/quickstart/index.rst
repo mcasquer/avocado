@@ -245,17 +245,23 @@ to the license of the project.
 Build and Quality Status
 ========================
 
-.. image:: https://copr.fedorainfracloud.org/coprs/g/avocado/avocado-latest/package/python-avocado/status_image/last_build.png
+.. |copr| image:: https://copr.fedorainfracloud.org/coprs/g/avocado/avocado-latest/package/python-avocado/status_image/last_build.png
    :target: https://copr.fedorainfracloud.org/coprs/g/avocado/avocado-latest/package/python-avocado/
    :alt: Copr build
 
-.. image:: https://readthedocs.org/projects/avocado-framework/badge/?version=latest
+.. |docs| image:: https://readthedocs.org/projects/avocado-framework/badge/?version=latest
    :target: https://avocado-framework.readthedocs.io/en/latest/
    :alt: Documentation Status
 
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+.. |black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
    :target: https://github.com/psf/black
    :alt: Code Style checking by Black
+
+.. |pypi-version| image:: https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff
+    :target: https://pypi.org/project/avocado-framework/
+    :alt: PyPI
+
+|copr| |docs| |black| |pypi-version|
 
 
 .. _Avocado User's Guide: https://avocado-framework.readthedocs.io/en/latest/guides/user/index.html
